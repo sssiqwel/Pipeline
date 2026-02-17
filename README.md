@@ -1,3 +1,3 @@
-#DevOps Pipeline
+DevOps Pipeline
 Описание:
 Проект нацелен на то,чтобы показать мои навыки владения DevOps
